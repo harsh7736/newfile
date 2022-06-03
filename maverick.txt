@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            padding:1.1rem; ;;
+        }
+    </style>
+</head>
+<body>
+    <form>
+        <legend>form</legend>
+        <div>
+            <label for="m_name">NAME:</label>
+            <input type = "text" id = "m_name">
+        </div>
+        <div>
+            <label for="m_select bulb">SELECT BULB</label>
+            input type ="checkbox" id = "m_select bulb" name ="22" value="100watt">
+            -
+        
+        </div>
+        <div>
+            <label for = "m_card">mode of payment</label>;
+            <input type = "radio" id = "m_card" name ="yt" value= "visa"
+            "visa"
+            <input type ="radio" id = "m_card" name = "" value = ""
+
+        </div>
+        <div>
+            <button type = "submit">submit</button>
+            <button type = "reset">reset</button>
+        </div>
+
+
+
+
+
+
+    </form>
+    
+</body>
+</html>
